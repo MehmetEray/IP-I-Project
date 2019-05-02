@@ -1,0 +1,158 @@
+
+#first_div {
+    background-image: url(header-bg.jpg);
+    padding: 30px;
+
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+.navbar-brand a {
+    margin-left: 400px;
+}
+.menu_a {
+    float: left;
+    color: antiquewhite;
+    padding: 14px 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: gray;
+}
+.nav-link {
+    color: darkorange;
+    text-decoration: none;
+
+}
+.bigImage_div {
+    float: left;
+    width: 50%;
+    height: 450px;
+    background-image: url(1.png);
+}
+.bigImage2_div {
+    float: left;
+    width: 50%;
+    height: 450px;
+    background-image: url(galata-4.jpg);
+}
+
+
+.lorem_div {
+    border: 1px solid transparent;
+    text-align: center;
+    background-color: gray;
+    margin-left: 50%;
+    color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.sacma_div {
+    border: 1px solid transparent;
+    text-align: center;
+    background-color: burlywood;
+    margin-left: 50%;
+    color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#readButton {
+    color: black;
+    background-color: cornflowerblue;
+    margin-left: 47%;
+}
+#readButton:hover {
+    color: aqua;
+    background-color: gray;
+    transition: 2s;
+    transition-property: 2s;
+    
+}
+#idea_div {
+    float: left;
+    width: 350px;
+    margin-left: 390px;
+}
+#records_div {
+    float: left;
+    width: 350px;
+}
+#weather_div {
+    float: left;
+    width: 350px;
+}
+#g_div:hover {
+    background-color: white;
+    transform-origin: left top;
+}
+#h_div:hover {
+    background-color: white;
+    transform-origin: left top;
+}
+#w_div:hover {
+    background-color: white;
+    transform-origin: left top;
+    
+}
+#h1_div {
+    margin-left: 28px; 
+    margin-top: 17px;
+    color: white;
+    transition: 1s;
+    border-radius: 50%;
+}
+#h1_div:hover {
+    color: aqua;
+    border-radius: 50%;
+}
+
+
+#h2_div {
+    margin-left: 28px; 
+    margin-top: 17px;
+    color: white;
+    transition: 1s;
+    border-radius: 50%;
+}
+#h2_div:hover {
+    color: aqua;
+    border-radius: 50%;
+}
+
+#h3_div {
+    margin-left: 28px; 
+    margin-top: 17px;
+    color: white;
+    transition: 1s;
+    border-radius: 50%;
+}
+#h3_div:hover {
+    color: aqua;
+    border-radius: 50%;
+}
+
+.changes_div {
+    width: 100px; 
+    height: 100px; 
+    background-color: aqua; 
+    overflow: hidden; 
+    transition: 2s;
+    float: left;
+    margin-right: 8px;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+#parts_div {
+    background-image: url(mosque.jpg);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 400px;
+}
+#parts_div > h1 {
+    margin-top: auto; 
+}
+
+
